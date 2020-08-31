@@ -1,0 +1,13 @@
+.style 
+{
+    height: 200px;
+    width:200px;
+    background-color: aqua;
+}
+.div
+{
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
